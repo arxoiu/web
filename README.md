@@ -114,9 +114,14 @@ https://youtube.com/playlist?list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW&feature=sha
 https://youtube.com/playlist?list=PLaeiqSJqUjhxbTxNIfF0gvsndy2Jlvz1L&feature=shared
 
 https://youtu.be/Ssri5JhPBTM?feature=shared
+
 https://youtu.be/Vgev2uGWt5M?feature=shared
+
 https://youtu.be/wBBpZZOBhtw?feature=shared
+
 https://youtu.be/aH3aUhTni1w?feature=shared
+
 https://youtu.be/Ssri5JhPBTM?feature=shared
+
 https://www.youtube.com/live/byZq3vXN2M4?feature=shared
 
