@@ -24,3 +24,25 @@
 - حقوق النشر وتراخيص الاكواد MIT, BSD, CC , GPL  - بحث فقهي مهجور
 
 ##  بعد وضعي للعناوين شعرت اني اقراء مقدمة لبرنامج الاتجاه المعاكس - فقد مجرد مزحة ولم أستمع في حياتي لحلقة كاملة من هذا البرنامج
+
+
+https://youtube.com/playlist?list=PL7cDgkLh9rcW41oM9eWy9e_120cbLfQ2S&feature=shared
+
+https://youtube.com/playlist?list=PLpk8SYJ2TCCl4pEEYcPI3_YWInXCk5ieJ&feature=shared
+
+https://youtube.com/playlist?list=PL8S7WK9TPug5pt-af6oEiVf67SFpW0kIg&feature=shared
+
+https://youtube.com/playlist?list=PL_hepB7Fb6RvcTGCeYeL3ev3Z-eH4XzBg&feature=shared
+
+https://youtube.com/playlist?list=PLctC7p20Ak9adRbJpswrc7Wh-kYN_l2Ng&feature=shared
+
+https://youtube.com/playlist?list=PLctC7p20Ak9ZLOT6GAbYKMwVigOfRlxhM&feature=shared
+
+https://youtube.com/playlist?list=PLctC7p20Ak9Z92Ml1W_i-XbAmRNnFfTul&feature=shared
+
+https://youtube.com/playlist?list=PLctC7p20Ak9Z92Ml1W_i-XbAmRNnFfTul&feature=shared
+
+https://youtube.com/playlist?list=PLLdD8NMLGF7_IYxwi-q4Y7ghshhTITBpU&feature=shared
+
+https://youtube.com/playlist?list=PLctC7p20Ak9Z92Ml1W_i-XbAmRNnFfTul&feature=shared
+
