@@ -101,3 +101,9 @@ https://youtube.com/playlist?list=PLVAxjdyIU8_zUqQgyA2u1kaw_rFQrLC51&feature=sha
 https://youtube.com/playlist?list=PLSQl0a2vh4HAbVPn5Gbugtg1o5hfdzEH1&feature=shared
 
 https://youtube.com/playlist?list=PLnPcGxLg0M67cPgcF8-Hhno9_tNcb0ue7&feature=shared
+
+https://youtube.com/playlist?list=PL-07J7i9NNEXep1kgj6cRbHfbyl38WHJ3&feature=shared
+
+https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&feature=shared
+
+https://youtube.com/playlist?list=PLaeiqSJqUjhwUp6lZY72t0C7IqnsEPOgv&feature=shared
