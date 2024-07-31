@@ -99,7 +99,7 @@ https://youtube.com/playlist?list=PLaeiqSJqUjhypcz0vu4pj9bn9CdRd8WYZ&feature=sha
 
 https://youtube.com/playlist?list=PLVAxjdyIU8_zUqQgyA2u1kaw_rFQrLC51&feature=shared
 
-https://youtube.com/playlist?list=PLSQl0a2vh4HAbVPn5Gbugtg1o5hfdzEH1&feature=shared
+https://youtube.com/playlist?list=PLSQl0a2vh4HAbVPn5Gbugtg1o5hfdzEHا1&feature=shared
 
 https://youtube.com/playlist?list=PLnPcGxLg0M67cPgcF8-Hhno9_tNcb0ue7&feature=shared
 
@@ -112,3 +112,11 @@ https://youtube.com/playlist?list=PLaeiqSJqUjhwUp6lZY72t0C7IqnsEPOgv&feature=sha
 https://youtube.com/playlist?list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW&feature=shared
 
 https://youtube.com/playlist?list=PLaeiqSJqUjhxbTxNIfF0gvsndy2Jlvz1L&feature=shared
+
+https://youtu.be/Ssri5JhPBTM?feature=shared
+https://youtu.be/Vgev2uGWt5M?feature=shared
+https://youtu.be/wBBpZZOBhtw?feature=shared
+https://youtu.be/aH3aUhTni1w?feature=shared
+https://youtu.be/Ssri5JhPBTM?feature=shared
+https://www.youtube.com/live/byZq3vXN2M4?feature=shared
+
