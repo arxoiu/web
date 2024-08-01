@@ -94,7 +94,7 @@ h4 {
 	float: right;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-left: 1px dotted #ccc;
+	border-right: 1px dotted #ccc;
 	width: 200px;
 }
 
@@ -110,7 +110,7 @@ h4 {
 }
 
 #nav li ul {
-	padding-left: 0.6em !important;
+	padding-right: 0.6em !important;
 }
 
 #nav li a {
