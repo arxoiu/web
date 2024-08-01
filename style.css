@@ -50,12 +50,12 @@ a {
 	clear: both;
 	color: #555;
 	font-size: 1.78em;
-	padding: 0.2ex 0.72ex 0.2ex 0.27em;
+	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
 
 #headerLink {
 	color: #17a;
-	margin-left: 12px;
+	margin-left: 5px;
 }
 
 h1 {
@@ -91,9 +91,9 @@ h4 {
 }
 
 #nav {
-	float: left;
+	float: right;
 	margin: 0 1px 0 0;
-	padding: 10em 0;
+	padding: 1em 0;
 	border-right: 1px dotted #ccc;
 	width: 200px;
 }
@@ -116,19 +116,19 @@ h4 {
 #nav li a {
 	display: block;
 	margin: 0;
-	padding: 9.8ex 2em 0.8ex 1em;
+	padding: 0.8ex 2em 0.8ex 1em;
 }
 
 #main {
 	margin: 0 0 0 200px;
 	max-width: 50em;
-	padding: 19.5em;
+	padding: 1.5em;
 }
 
 .left {
 	float: left;
 	margin: 0;
-	padding: 90;
+	padding: 0;
 }
 
 .right {
