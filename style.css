@@ -55,7 +55,7 @@ a {
 
 #headerLink {
 	color: #17a;
-	margin-left: 5px;
+	margin-right: 5px;
 }
 
 h1 {
@@ -81,7 +81,7 @@ h4 {
 #headerSubtitle {
 	font-size: 0.75em;
 	font-style: italic;
-	margin-left: 1em;
+	margin-right: 1em;
 }
 
 #content {
@@ -94,7 +94,7 @@ h4 {
 	float: right;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-right: 1px dotted #ccc;
+	border-left: 1px dotted #ccc;
 	width: 200px;
 }
 
@@ -110,7 +110,7 @@ h4 {
 }
 
 #nav li ul {
-	padding-right: 0.6em !important;
+	padding-left: 0.6em !important;
 }
 
 #nav li a {
