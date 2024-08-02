@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #a09d87;
+	background-color: #AFAE92;
 	color: #000;
 	font-family: sans-serif;
 	padding: 0;
@@ -15,7 +15,7 @@ pre, code {
 }
 
 a {
-	color: #8d8676;
+	color: #005386;
 }
 
 #header a, #nav a, #menu a {
@@ -23,38 +23,38 @@ a {
 }
 
 #nav a:hover {
-	background-color: #‎fff;
+	background-color: #ddd;
 }
 
 #menu {
 	clear: both;
-	color: #a0a191;
+	color: #069;
 	overflow: hidden;
-	background-color: #a09d87;
+	background-color: #17a;
 	padding: 0.7ex;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #fff;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #069;
 }
 
 #menu a {
 	padding: 0.5ex 1ex;
-	color: #000;
+	color: #AFAE92;
 }
 
 #menu a:hover {
-	background-color: #a09d87;
+	background-color: #069;
 }
 
 #header {
-	background-color: #8d8676;
+	background-color: #eee;
 	clear: both;
-	color: #a09d87;
+	color: #555;
 	font-size: 1.78em;
 	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
 
 #headerLink {
-	color: ‎#c19a6b:
+	color: #17a;
 	margin-left: 5px;
 }
 
@@ -91,10 +91,10 @@ h4 {
 }
 
 #nav {
-	float: right;
+	float: left;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-left: 1px dotted #000;
+	border-right: 1px dotted #ccc;
 	width: 200px;
 }
 
@@ -110,7 +110,7 @@ h4 {
 }
 
 #nav li ul {
-	padding-right: 0.6em !important;
+	padding-left: 0.6em !important;
 }
 
 #nav li a {
