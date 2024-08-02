@@ -15,7 +15,7 @@ pre, code {
 }
 
 a {
-	color: #FFFFEA;
+	color: #8d8676;
 }
 
 #header a, #nav a, #menu a {
@@ -28,9 +28,9 @@ a {
 
 #menu {
 	clear: both;
-	color: #069;
+	color: #a0a191;
 	overflow: hidden;
-	background-color: #FFFFEa;
+	background-color: #a09d87;
 	padding: 0.7ex;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #069;
@@ -42,7 +42,7 @@ a {
 }
 
 #menu a:hover {
-	background-color: #069;
+	background-color: #a09d87;
 }
 
 #header {
@@ -54,7 +54,7 @@ a {
 }
 
 #headerLink {
-	color: #17a;
+	color: #a09d87;
 	margin-left: 5px;
 }
 
@@ -94,7 +94,7 @@ h4 {
 	float: right;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-left: 1px dotted #ccc;
+	border-left: 1px dotted #000;
 	width: 200px;
 }
 
