@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #AFAE92;
+	background-color: #fff;
 	color: #000;
 	font-family: sans-serif;
 	padding: 0;
@@ -23,38 +23,38 @@ a {
 }
 
 #nav a:hover {
-	background-color: #A1662F;
+	background-color: #ddd;
 }
 
 #menu {
 	clear: both;
-	color: #8d8676;
+	color: #069;
 	overflow: hidden;
-	background-color: #a4a698;
+	background-color: #17a;
 	padding: 0.7ex;
-	border-top: 1px solid #A1662F;
-	border-bottom: 1px solid #8d8676;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #069;
 }
 
 #menu a {
 	padding: 0.5ex 1ex;
-	color: #000;
+	color: #fff;
 }
 
 #menu a:hover {
-	background-color: #000;
+	background-color: #069;
 }
 
 #header {
-	background-color: #fff;
+	background-color: #eee;
 	clear: both;
-	color: #000;
+	color: #555;
 	font-size: 1.78em;
 	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
 
 #headerLink {
-	color: #000;
+	color: #17a;
 	margin-left: 5px;
 }
 
@@ -94,7 +94,7 @@ h4 {
 	float: left;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-right: 1px dotted #000;
+	border-right: 1px dotted #ccc;
 	width: 200px;
 }
 
@@ -139,4 +139,30 @@ h4 {
 
 .hidden {
 	display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #000;
+		color: #bdbdbd;
+	}
+	#menu {
+		border-top: 1px solid #222;
+	}
+	#header {
+		background-color: #111;
+	}
+	#nav a:hover {
+		background-color: #222;
+	}
+	blockquote, pre, code {
+		background-color: #111;
+		border-color: #222;
+	}
+	a {
+		color: #56c8ff;
+	}
+	#main img[src$=svg] {
+		filter: invert(1);
+	}
 }
