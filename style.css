@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #fff;
+	background-color: #a09d87;
 	color: #000;
 	font-family: sans-serif;
 	padding: 0;
@@ -23,7 +23,7 @@ a {
 }
 
 #nav a:hover {
-	background-color: #ddd;
+	background-color: #‎c19a6b;
 }
 
 #menu {
@@ -32,8 +32,8 @@ a {
 	overflow: hidden;
 	background-color: #a09d87;
 	padding: 0.7ex;
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #a09d87;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #fff;
 }
 
 #menu a {
@@ -46,9 +46,9 @@ a {
 }
 
 #header {
-	background-color: #eee;
+	background-color: #8d8676;
 	clear: both;
-	color: #555;
+	color: #a09d87;
 	font-size: 1.78em;
 	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
