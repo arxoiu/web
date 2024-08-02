@@ -33,12 +33,12 @@ a {
 	background-color: #a09d87;
 	padding: 0.7ex;
 	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #069;
+	border-bottom: 1px solid #a09d87;
 }
 
 #menu a {
 	padding: 0.5ex 1ex;
-	color: #fff;
+	color: #000;
 }
 
 #menu a:hover {
