@@ -28,12 +28,12 @@ a {
 
 #menu {
 	clear: both;
-	color: #069;
+	color: #8d8676;
 	overflow: hidden;
-	background-color: #17a;
+	background-color: #a4a698;
 	padding: 0.7ex;
 	border-top: 1px solid #A1662F;
-	border-bottom: 1px solid #069;
+	border-bottom: 1px solid #8d8676;
 }
 
 #menu a {
@@ -46,15 +46,15 @@ a {
 }
 
 #header {
-	background-color: #eee;
+	background-color: #fff;
 	clear: both;
-	color: #555;
+	color: #000;
 	font-size: 1.78em;
 	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
 
 #headerLink {
-	color: #17a;
+	color: #8d8676;
 	margin-left: 5px;
 }
 
@@ -94,7 +94,7 @@ h4 {
 	float: left;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
-	border-right: 1px dotted #ccc;
+	border-right: 1px dotted #fff;
 	width: 200px;
 }
 
