@@ -18,6 +18,19 @@ body {
     padding:0 .62em 3.24em;
     font:1.2em/1.62 sans-serif
 }
+
+a[href^="http"]::after {
+  content: "";
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  margin-left: 0.25em;
+
+  background-size: 100%;
+  background-image: url("link.png");
+}
+	
+}
 h1,h2,h3 {
     line-height:1.2
 }
@@ -31,5 +44,7 @@ a {color: #000000;
   }
 </style>	
 <article>	
-	
+<p>
+  For more information on the weather, visit our <a href="#">weather page</a>, 
+look at <a href="https://en.wikipedia.org/">weather on Wikipedia</a>, or check out <a href="https://www.nationalgeographic.org/topics/resource-library-weather/">weather on National Geographic</a>. </p>
 </article>
